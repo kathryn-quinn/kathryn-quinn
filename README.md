@@ -1,4 +1,9 @@
-## Hi there 👋
+##
+An enthusiastic and ambitious student, passionate about sports, studying Sport Administration and Data Science at Belmont University. 
+
+With over 6 years of working in professional sports, previous experiences include interning with the Milwaukee Brewers Baseball Club, Nashville Predators, Nashville Soccer Club, and Milwaukee Bucks. 
+
+Composed under pressure with strong interpersonal skills and personal characteristics that embody dependability, trustworthiness, professionalism, and honesty.
 
 <!--
 **kathryn-quinn/kathryn-quinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
